@@ -1,34 +1,60 @@
-<h3 align="center">Let's Connect </h3>
 <p align="center">
-<a href="https://twitter.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter account" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedIn acciount" height="30" width="40" /></a>
-<a href="https://github.com/John-Paul-Alvarez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="@John-Paul-Alvarez" height="30" width="40" /></a>
+  <img src="assets/header.svg" alt="John Paul Alvarez - Full-Stack Developer" />
 </p>
 
-<br>
+<p align="center">
+  <b>Full-Stack Developer | Backend APIs | Cloud-Ready Apps | Practical Problem Solving</b>
+</p>
 
-<h2 align="center"> 💻 Tech Stack</h2>
+<p align="center">
+  I build practical software with clean user workflows, REST APIs, authentication, databases, testing, and deployment.
+</p>
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![AWS](https://img.shields.io/badge/aws-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+<p align="center">
+  <a href="https://github.com/John-Paul-Alvarez">GitHub</a>
+  ·
+  <a href="https://cafe-time-front-end.vercel.app">CafeTime Live Demo</a>
+</p>
 
+---
 
-<!--
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/John-Paul-Alvarez/John-Paul-Alvarez/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/John-Paul-Alvarez/John-Paul-Alvarez/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/John-Paul-Alvarez/John-Paul-Alvarez/output/github-snake.svg" />
-</picture>
--->
+## Featured Projects
 
+| Project | What it shows | Stack |
+| --- | --- | --- |
+| [CafeTime Frontend](https://github.com/John-Paul-Alvarez/cafeTimeFrontEnd) | Cafe ordering UI with menu browsing, cart, checkout, account screens, recommendations, reviews, and delivery tracking | HTML, CSS, JavaScript, Stripe.js, Leaflet, Vercel |
+| [CafeTime Backend](https://github.com/John-Paul-Alvarez/cafeTimeBackEnd) | API for auth, carts, Stripe test payments, receipts, orders, recommendations, reviews, and delivery simulation | Node.js, Express, MongoDB, Mongoose, JWT, Jest |
+| [Fragments API](https://github.com/John-Paul-Alvarez/fragments) | Authenticated microservice with fragment storage, conversion workflows, Docker, AWS-style persistence, and tests | Node.js, Express, AWS S3/DynamoDB, Docker, Jest |
+| [Fragments UI](https://github.com/John-Paul-Alvarez/fragments-ui) | Frontend client for authenticated fragment create, list, update, delete, and conversion workflows | JavaScript, Parcel, Cognito, API integration |
+| [Restaurant Reservation](https://github.com/John-Paul-Alvarez/Restaurant-Reservation) | Database-backed reservation workflows for customer and staff use cases | Python, MySQL, Docker, full-stack structure |
+
+---
+
+## Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,mysql,python,java,cpp,aws,docker,git,github,figma" alt="Tech stack icons" />
+</p>
+
+**Frontend:** HTML, CSS, JavaScript, React, Next.js, responsive UI, API integration
+
+**Backend:** Node.js, Express, REST APIs, JWT authentication, MongoDB/Mongoose, MySQL
+
+**Cloud and tools:** AWS fundamentals, Docker, Vercel, Render, Git, GitHub Actions
+
+**Testing:** Jest, Supertest, API health checks, integration testing
+
+---
+
+## Current Focus
+
+- Building cleaner full-stack portfolio projects
+- Improving backend API design and testing discipline
+- Publishing employer-ready repositories with clear documentation
+- Practicing data structures, algorithms, and system design
+
+---
+
+<p align="center">
+  <img src="assets/footer.svg" alt="Animated footer" />
+</p>
