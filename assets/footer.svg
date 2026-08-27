@@ -1,0 +1,21 @@
+<svg width="1000" height="140" viewBox="0 0 1000 140" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Animated footer</title>
+  <desc id="desc">Animated wave footer for a GitHub profile README.</desc>
+  <defs>
+    <linearGradient id="wave" x1="0" y1="0" x2="1000" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#58A6FF"/>
+      <stop offset="0.5" stop-color="#3FB950"/>
+      <stop offset="1" stop-color="#F78166"/>
+      <animateTransform attributeName="gradientTransform" type="translate" values="-250 0;250 0;-250 0" dur="8s" repeatCount="indefinite"/>
+    </linearGradient>
+  </defs>
+  <rect width="1000" height="140" rx="18" fill="#0D1117"/>
+  <path d="M0 82 C160 20 300 135 465 72 C640 5 750 130 1000 54 L1000 140 L0 140 Z" fill="url(#wave)" opacity="0.36">
+    <animate attributeName="d" dur="7s" repeatCount="indefinite" values="M0 82 C160 20 300 135 465 72 C640 5 750 130 1000 54 L1000 140 L0 140 Z; M0 62 C175 122 315 20 500 82 C685 145 780 25 1000 75 L1000 140 L0 140 Z; M0 82 C160 20 300 135 465 72 C640 5 750 130 1000 54 L1000 140 L0 140 Z"/>
+  </path>
+  <path d="M0 95 C210 40 350 132 520 86 C710 34 810 116 1000 72" stroke="url(#wave)" stroke-width="3" opacity="0.9">
+    <animate attributeName="d" dur="6s" repeatCount="indefinite" values="M0 95 C210 40 350 132 520 86 C710 34 810 116 1000 72; M0 78 C200 125 360 35 530 92 C690 145 825 38 1000 88; M0 95 C210 40 350 132 520 86 C710 34 810 116 1000 72"/>
+  </path>
+  <text x="500" y="50" text-anchor="middle" fill="#E6EDF3" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="600">Open to software developer opportunities</text>
+  <text x="500" y="78" text-anchor="middle" fill="#8B949E" font-family="Segoe UI, Arial, sans-serif" font-size="15">Full-stack apps | Backend APIs | Databases | Testing | Deployment</text>
+</svg>
