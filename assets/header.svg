@@ -1,0 +1,69 @@
+<svg width="1000" height="260" viewBox="0 0 1000 260" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">John Paul Alvarez - Full-Stack Developer</title>
+  <desc id="desc">Animated GitHub profile header for John Paul Alvarez.</desc>
+  <defs>
+    <linearGradient id="border" x1="0" y1="0" x2="1000" y2="260" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#58A6FF"/>
+      <stop offset="0.45" stop-color="#3FB950"/>
+      <stop offset="1" stop-color="#F78166"/>
+      <animateTransform attributeName="gradientTransform" type="rotate" from="0 500 130" to="360 500 130" dur="12s" repeatCount="indefinite"/>
+    </linearGradient>
+    <linearGradient id="scan" x1="0" y1="0" x2="1000" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0D1117" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#58A6FF" stop-opacity="0.20"/>
+      <stop offset="1" stop-color="#0D1117" stop-opacity="0"/>
+      <animateTransform attributeName="gradientTransform" type="translate" values="-1000 0;1000 0" dur="5s" repeatCount="indefinite"/>
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect x="5" y="5" width="990" height="250" rx="24" fill="#0D1117" stroke="url(#border)" stroke-width="3"/>
+  <rect x="5" y="5" width="990" height="250" rx="24" fill="url(#scan)"/>
+
+  <g opacity="0.28">
+    <path d="M90 48H910" stroke="#30363D"/>
+    <path d="M90 88H910" stroke="#30363D"/>
+    <path d="M90 128H910" stroke="#30363D"/>
+    <path d="M90 168H910" stroke="#30363D"/>
+    <path d="M90 208H910" stroke="#30363D"/>
+    <path d="M170 32V228" stroke="#30363D"/>
+    <path d="M330 32V228" stroke="#30363D"/>
+    <path d="M500 32V228" stroke="#30363D"/>
+    <path d="M670 32V228" stroke="#30363D"/>
+    <path d="M830 32V228" stroke="#30363D"/>
+  </g>
+
+  <g filter="url(#glow)">
+    <circle cx="128" cy="70" r="5" fill="#58A6FF">
+      <animate attributeName="opacity" values="0.25;1;0.25" dur="2.2s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="872" cy="190" r="5" fill="#3FB950">
+      <animate attributeName="opacity" values="1;0.25;1" dur="2.8s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="796" cy="58" r="4" fill="#F78166">
+      <animate attributeName="opacity" values="0.3;1;0.3" dur="2.4s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <text x="500" y="100" text-anchor="middle" fill="#E6EDF3" font-family="Segoe UI, Arial, sans-serif" font-size="48" font-weight="700">John Paul Alvarez</text>
+  <text x="500" y="142" text-anchor="middle" fill="#58A6FF" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="600">
+    Full-Stack Developer | Backend APIs | Cloud-Ready Projects
+  </text>
+
+  <g transform="translate(282 172)">
+    <rect width="436" height="44" rx="10" fill="#161B22" stroke="#30363D"/>
+    <circle cx="25" cy="22" r="5" fill="#F78166"/>
+    <circle cx="43" cy="22" r="5" fill="#E3B341"/>
+    <circle cx="61" cy="22" r="5" fill="#3FB950"/>
+    <text x="86" y="28" fill="#C9D1D9" font-family="Consolas, monospace" font-size="17">building practical software</text>
+    <rect x="334" y="14" width="10" height="18" fill="#58A6FF">
+      <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+</svg>
