@@ -1,23 +1,30 @@
-<svg width="1000" height="140" viewBox="0 0 1000 140" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+<svg width="1000" height="120" viewBox="0 0 1000 120" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">Animated footer</title>
-  <desc id="desc">Animated wave footer for a GitHub profile README.</desc>
+  <desc id="desc">Backgroundless animated footer for a GitHub profile README.</desc>
+  <style>
+    .title-text { fill: #24292f; }
+    .sub-text { fill: #57606a; }
+    @media (prefers-color-scheme: dark) {
+      .title-text { fill: #e6edf3; }
+      .sub-text { fill: #8b949e; }
+    }
+  </style>
   <defs>
     <linearGradient id="wave" x1="0" y1="0" x2="1000" y2="0" gradientUnits="userSpaceOnUse">
       <stop offset="0" stop-color="#58A6FF"/>
       <stop offset="0.5" stop-color="#3FB950"/>
       <stop offset="1" stop-color="#F78166"/>
-      <animateTransform attributeName="gradientTransform" type="translate" values="-250 0;250 0;-250 0" dur="8s" repeatCount="indefinite"/>
+      <animateTransform attributeName="gradientTransform" type="translate" values="-240 0;240 0;-240 0" dur="8s" repeatCount="indefinite"/>
     </linearGradient>
   </defs>
-  <rect width="1000" height="140" rx="18" fill="#0D1117"/>
 
-  <text x="500" y="36" text-anchor="middle" fill="#E6EDF3" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="600">Open to software developer opportunities</text>
-  <text x="500" y="64" text-anchor="middle" fill="#8B949E" font-family="Segoe UI, Arial, sans-serif" font-size="15">Full-stack apps | Backend APIs | Databases | Testing | Deployment</text>
+  <text class="title-text" x="500" y="30" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="700">Open to software developer opportunities</text>
+  <text class="sub-text" x="500" y="58" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="15">Full-stack apps | Backend APIs | Databases | Testing | Deployment</text>
 
-  <path d="M0 100 C160 58 300 132 465 100 C640 56 750 132 1000 92 L1000 140 L0 140 Z" fill="url(#wave)" opacity="0.34">
-    <animate attributeName="d" dur="7s" repeatCount="indefinite" values="M0 100 C160 58 300 132 465 100 C640 56 750 132 1000 92 L1000 140 L0 140 Z; M0 92 C175 128 315 68 500 103 C685 134 780 70 1000 102 L1000 140 L0 140 Z; M0 100 C160 58 300 132 465 100 C640 56 750 132 1000 92 L1000 140 L0 140 Z"/>
+  <path d="M0 88 C168 54 318 112 486 86 C660 58 790 106 1000 80 L1000 120 L0 120 Z" fill="url(#wave)" opacity="0.22">
+    <animate attributeName="d" dur="7s" repeatCount="indefinite" values="M0 88 C168 54 318 112 486 86 C660 58 790 106 1000 80 L1000 120 L0 120 Z; M0 82 C178 110 336 62 510 88 C688 114 820 66 1000 90 L1000 120 L0 120 Z; M0 88 C168 54 318 112 486 86 C660 58 790 106 1000 80 L1000 120 L0 120 Z"/>
   </path>
-  <path d="M0 106 C210 72 350 128 520 104 C710 76 810 124 1000 98" stroke="url(#wave)" stroke-width="3" opacity="0.85">
-    <animate attributeName="d" dur="6s" repeatCount="indefinite" values="M0 106 C210 72 350 128 520 104 C710 76 810 124 1000 98; M0 96 C200 130 360 74 530 108 C690 136 825 78 1000 110; M0 106 C210 72 350 128 520 104 C710 76 810 124 1000 98"/>
+  <path d="M0 88 C210 60 364 104 536 88 C710 66 832 100 1000 82" stroke="url(#wave)" stroke-width="3" opacity="0.9">
+    <animate attributeName="d" dur="6s" repeatCount="indefinite" values="M0 88 C210 60 364 104 536 88 C710 66 832 100 1000 82; M0 82 C206 104 382 64 548 90 C706 110 838 70 1000 92; M0 88 C210 60 364 104 536 88 C710 66 832 100 1000 82"/>
   </path>
 </svg>
