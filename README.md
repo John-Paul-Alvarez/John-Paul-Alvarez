@@ -38,7 +38,13 @@
 | [Fragments UI](https://github.com/John-Paul-Alvarez/fragments-ui) | Frontend client for authenticated fragment create, list, update, delete, and conversion workflows | JavaScript, Parcel, Cognito, API integration |
 | [Restaurant Reservation](https://github.com/John-Paul-Alvarez/Restaurant-Reservation) | Database-backed reservation workflows for customer and staff use cases | Python, MySQL, Docker, full-stack structure |
 
-<br />
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/John-Paul-Alvarez/John-Paul-Alvarez/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/John-Paul-Alvarez/John-Paul-Alvarez/output/github-snake.svg" />
+    <img width="100%" alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/John-Paul-Alvarez/John-Paul-Alvarez/output/github-snake.svg" />
+  </picture>
+</p>
 
 <p align="center">
   <img src="assets/footer.svg" width="100%" alt="Animated footer" />
