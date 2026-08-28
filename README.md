@@ -56,5 +56,10 @@
 ---
 
 <p align="center">
-  <img src="assets/footer.svg" alt="Animated footer" />
+  <b>Open to software developer opportunities</b><br>
+  <sub>Full-stack apps | Backend APIs | Databases | Testing | Deployment</sub>
+</p>
+
+<p align="center">
+  <img src="assets/footer-wave.svg" alt="Animated wave footer" />
 </p>
