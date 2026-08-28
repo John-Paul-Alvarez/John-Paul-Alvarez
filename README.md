@@ -9,9 +9,7 @@
   databases, testing, and deployment.
 </p>
 
-<br />
-
-<h2 align="center">Tech Stack</h2>
+<h3 align="center">Tech Stack</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,mysql,python,java,cpp,aws,docker,git,github,figma&perline=9" alt="Tech stack icons" />
@@ -21,9 +19,7 @@
   <sub>Full-stack apps, backend APIs, databases, testing, and deployment.</sub>
 </p>
 
-<br />
-
-<h2 align="center">Contact</h2>
+<h3 align="center">Contact</h3>
 
 <p align="center">
   <a href="https://twitter.com" target="blank">
@@ -35,9 +31,7 @@
   </a>
 </p>
 
-<br />
-
-<h2 align="center">Featured Projects</h2>
+<h3 align="center">Featured Projects</h3>
 
 | Project | What it shows | Stack |
 | --- | --- | --- |
