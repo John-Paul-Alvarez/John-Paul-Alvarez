@@ -41,20 +41,20 @@
 
   <g filter="url(#glow)">
     <circle cx="128" cy="70" r="5" fill="#58A6FF">
-      <animate attributeName="cx" values="128;214;168;308;246;128" dur="9s" repeatCount="indefinite"/>
-      <animate attributeName="cy" values="70;52;190;138;82;70" dur="9s" repeatCount="indefinite"/>
+      <animate attributeName="cx" values="128;930;470;72;820;540;260;905;128" dur="15s" repeatCount="indefinite"/>
+      <animate attributeName="cy" values="70;214;46;184;82;218;118;52;70" dur="15s" repeatCount="indefinite"/>
       <animate attributeName="r" values="4;6;5;7;4" dur="4.8s" repeatCount="indefinite"/>
       <animate attributeName="opacity" values="0.35;1;0.45;0.9;0.35" dur="3.4s" repeatCount="indefinite"/>
     </circle>
     <circle cx="872" cy="190" r="5" fill="#3FB950">
-      <animate attributeName="cx" values="872;910;758;838;692;872" dur="10.5s" begin="0.4s" repeatCount="indefinite"/>
-      <animate attributeName="cy" values="190;86;206;145;72;190" dur="10.5s" begin="0.4s" repeatCount="indefinite"/>
+      <animate attributeName="cx" values="872;88;612;940;338;705;150;500;872" dur="17s" begin="0.4s" repeatCount="indefinite"/>
+      <animate attributeName="cy" values="190;54;214;112;44;204;152;72;190" dur="17s" begin="0.4s" repeatCount="indefinite"/>
       <animate attributeName="r" values="5;7;4;6;5" dur="5.2s" begin="0.4s" repeatCount="indefinite"/>
       <animate attributeName="opacity" values="1;0.35;0.85;0.45;1" dur="3.8s" begin="0.4s" repeatCount="indefinite"/>
     </circle>
     <circle cx="796" cy="58" r="4" fill="#F78166">
-      <animate attributeName="cx" values="796;650;900;720;842;796" dur="8.5s" begin="0.8s" repeatCount="indefinite"/>
-      <animate attributeName="cy" values="58;95;70;205;132;58" dur="8.5s" begin="0.8s" repeatCount="indefinite"/>
+      <animate attributeName="cx" values="796;225;918;384;66;680;460;930;796" dur="13.5s" begin="0.8s" repeatCount="indefinite"/>
+      <animate attributeName="cy" values="58;218;166;48;94;214;126;42;58" dur="13.5s" begin="0.8s" repeatCount="indefinite"/>
       <animate attributeName="r" values="4;6;5;7;4" dur="4.4s" begin="0.8s" repeatCount="indefinite"/>
       <animate attributeName="opacity" values="0.3;1;0.5;0.9;0.3" dur="3.2s" begin="0.8s" repeatCount="indefinite"/>
     </circle>
