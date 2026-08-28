@@ -2,8 +2,6 @@
   <img src="assets/header.svg" width="100%" alt="John Paul Alvarez - Full-Stack Developer" />
 </p>
 
-<h3 align="center">Full-Stack Developer | Backend APIs | Cloud-Ready Apps</h3>
-
 <p align="center">
   I build practical software with clean user workflows, REST APIs, authentication,
   databases, testing, and deployment.
@@ -12,11 +10,11 @@
 <h3 align="center">Tech Stack</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,mysql,python,java,cpp,aws,docker,git,github,figma&perline=9" alt="Tech stack icons" />
+  <sub>Full-stack apps, backend APIs, databases, testing, and deployment.</sub>
 </p>
 
 <p align="center">
-  <sub>Full-stack apps, backend APIs, databases, testing, and deployment.</sub>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,mysql,python,java,cpp,aws,docker,git,github,figma&perline=9" alt="Tech stack icons" />
 </p>
 
 <h3 align="center">Contact</h3>
@@ -26,7 +24,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="34" width="44" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://linkedin.com/in/" target="blank">
+  <a href="https://ca.linkedin.com/in/john-paul-alvarez-721400304" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="34" width="44" />
   </a>
 </p>
