@@ -10,11 +10,7 @@
   I build practical software with clean user workflows, REST APIs, authentication, databases, testing, and deployment.
 </p>
 
-<p align="center">
-  <a href="https://github.com/John-Paul-Alvarez">GitHub</a>
-  ·
-  <a href="https://cafe-time-front-end.vercel.app">CafeTime Live Demo</a>
-</p>
+
 
 ---
 
@@ -36,24 +32,26 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,mysql,python,java,cpp,aws,docker,git,github,figma" alt="Tech stack icons" />
 </p>
 
-**Frontend:** HTML, CSS, JavaScript, React, Next.js, responsive UI, API integration
-
-**Backend:** Node.js, Express, REST APIs, JWT authentication, MongoDB/Mongoose, MySQL
-
-**Cloud and tools:** AWS fundamentals, Docker, Vercel, Render, Git, GitHub Actions
-
-**Testing:** Jest, Supertest, API health checks, integration testing
+<p align="center">
+  Full-stack apps, backend APIs, databases, testing, and deployment.
+</p>
 
 ---
 
-## Current Focus
+## Contact
 
-- Building cleaner full-stack portfolio projects
-- Improving backend API design and testing discipline
-- Publishing employer-ready repositories with clear documentation
-- Practicing data structures, algorithms, and system design
+<p align="center">
+  <a href="https://twitter.com" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
+  </a>
+  <a href="https://linkedin.com/in/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+</p>
 
 ---
+
+
 
 <p align="center">
   <img src="assets/footer.svg" alt="Animated footer" />
